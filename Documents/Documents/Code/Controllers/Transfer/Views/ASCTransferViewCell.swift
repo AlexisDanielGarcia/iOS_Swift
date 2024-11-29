@@ -1,0 +1,23 @@
+//
+//  ASCTransferViewCell.swift
+//  Documents
+//
+//  Created by Alexander Yuzhin on 6/20/17.
+//  Copyright © 2017 Ascensio System SIA. All rights reserved.
+//
+
+import UIKit
+
+class ASCTransferViewCell: UITableViewCell {
+    @IBOutlet var leftImageView: UIImageView!
+    @IBOutlet var titleLabel: UILabel!
+    @IBOutlet var badgeImageView: UIImageView!
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+    }
+
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+    }
+}

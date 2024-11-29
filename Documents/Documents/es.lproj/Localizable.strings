@@ -1,0 +1,2037 @@
+/* No comment provided by engineer. */
+"(%@)" = "(%@)";
+
+/* No comment provided by engineer. */
+"(%@/%@)" = "(%1$@/%2$@)";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ | %@" = "%1$@ | %2$@";
+
+/* Presentation Viewer */
+"%i of %i" = "%1$i de %2$i";
+
+/* No comment provided by engineer. */
+"%lu items with the same name already exist in the folder '%@'. Overwrite the items?" = "%1$lu objetos con el mismo nombre ya existen en la carpeta '%2$@'. ¿Sobrescribir los objetos?";
+
+/* No comment provided by engineer. */
+"© Ascensio System SIA %d" = "© Ascensio System SIA %d";
+
+/* No comment provided by engineer. */
+"<p>Use the password created in <a href=\"https://yandex.ru/id/about\">Yandex ID</a>.</br>More detailed connection instructions can be found in the <a href=\"https://yandex.ru/support/disk-desktop/webdav-app-passwords.html?lang=ru\">help</a>.</p>" = "<p>Utilice la contraseña creada en <a href=\"https://yandex.ru/id/about\">Yandex ID</a>.</br>Puede encontrar instrucciones de conexión más detalladas en la <a href=\"https://yandex.ru/support/disk-desktop/webdav-app-passwords.html?lang=ru\">ayuda</a>.</p>";
+
+/* No comment provided by engineer. */
+"<p>Use the password created in <a href=\"https://yandex.ru/id/about\">Yandex ID</a>.</p><p>More detailed connection instructions can be found in the <a href=\"https://yandex.ru/support/disk-desktop/webdav-app-passwords.html?lang=ru\">help</a>.</p>" = "<p>Utilice la contraseña creada en <a href=\"https://yandex.ru/id/about\">Yandex ID</a>.</p><p>Puede encontrar instrucciones de conexión más detalladas en la <a href=\"https://yandex.ru/support/disk-desktop/webdav-app-passwords.html?lang=ru\">ayuda</a>.</p>";
+
+/* No comment provided by engineer. */
+"<p>You must have a paid version of the player to use this service.</p><p>If you have activated double authentication, please generate a CDM application from the Infomaniak manager. <a href=\"https://www.infomaniak.com/en/support/faq/1940/enable-two-step-verification\">More...</a></p>" = "<p>Debe disponer de una versión de pago del reproductor para utilizar este servicio.</p><p>Si usted activó la autenticación doble, genere una aplicación CDM desde el gestor de Infomaniak. <a href=\"https://www.infomaniak.com/en/support/faq/1940/enable-two-step-verification\">Más...</a></p>";
+
+/* No comment provided by engineer. */
+"1 day" = "1 día";
+
+/* No comment provided by engineer. */
+"7 days" = "7 días";
+
+/* No comment provided by engineer. */
+"12 hours" = "12 horas";
+
+/* No comment provided by engineer. */
+"A file with a similar name already exist." = "Ya existe un archivo con un nombre similar.";
+
+/* No comment provided by engineer. */
+"A file with a similar name already exists in the document directory on the device." = "Un archivo con un nombre similar ya existe en el directorio de documentos en el dispositivo.";
+
+/* No comment provided by engineer. */
+"A new room will be created and all the contents of the selected folder will be copied there. Afterwards, you can invite other users to collaborate on the files within a room." = "Se creará una nueva sala y todo el contenido de la carpeta seleccionada se copiará allí. Después, podrá invitar a otros usuarios a colaborar en los archivos dentro de una sala.";
+
+/* No comment provided by engineer. */
+"A user or group will be able only to view the document and add comments, as well as manage them." = "Un usuario o grupo sólo podrá ver el documento y añadir comentarios, así como administrarlos.";
+
+/* No comment provided by engineer. */
+"A user or group will be able only to view the document and fill in the forms inserted into the document." = "Un usuario o grupo sólo podrá ver el documento y rellenar los formularios insertados en el documento.";
+
+/* No comment provided by engineer. */
+"A user or group will be able only to view the document." = "Un usuario o grupo sólo podrá ver el documento.";
+
+/* No comment provided by engineer. */
+"A user or group will be able to view and change the document without actually editing it, but all the changes made by a reviewer will be recorded and shown to the file owner (or a person who has full access to the file) so that he/she will be able to accept or reject them." = "Un usuario o grupo podrá ver y modificar el documento sin editarlo, pero todos los cambios realizados por un revisor se registrarán y se mostrarán al propietario del archivo (o a cualquier persona que tenga acceso completo al archivo) para que pueda aceptarlos o rechazarlos.";
+
+/* No comment provided by engineer. */
+"A user or group will be able to view and edit the document as well as to share this document." = "Un usuario o grupo podrá ver y editar el documento, así como compartirlo.";
+
+/* Format info */
+"A0 (84,1%@ x 119,9%@)" = "A0 (84,1%1$@ x 119,9%2$@)";
+
+/* Format info */
+"A1 (59,4%@ x 84,1%@)" = "A1 (59,4%1$@ x 84,1%2$@)";
+
+/* Format info */
+"A2 (42%@ x 59,4%@)" = "A2 (42%1$@ x 59,4%2$@)";
+
+/* Format info */
+"A6 (10,5%@ x 14,8%@)" = "A6 (10,5%1$@ x 14,8%2$@)";
+
+/* No comment provided by engineer. */
+"About" = "Acerca de";
+
+/* No comment provided by engineer. */
+"Access by external link" = "Acceso a través de un enlace externo";
+
+/* No comment provided by engineer. */
+"Access rights" = "Derechos de acceso";
+
+/* No comment provided by engineer. */
+"Access settings" = "Ajustes de acceso";
+
+/* No comment provided by engineer. */
+"Access type" = "Tipo de acceso";
+
+/* No comment provided by engineer. */
+"Account name is empty" = "El nombre de cuenta está vacío";
+
+/* No comment provided by engineer. */
+"Account name is not valid" = "El nombre de cuenta no es válido";
+
+/* No comment provided by engineer. */
+"Accounts" = "Cuentas";
+
+/* No comment provided by engineer. */
+"Add account" = "Añadir cuenta";
+
+/* No comment provided by engineer. */
+"Add manually" = "Añadir manualmente";
+
+/* Sharing settings add notification message */
+"Add message" = "Añadir mensaje";
+
+/* placeholder */
+"Add tag" = "Añadir etiqueta";
+
+/* Button title */
+"Add users" = "Añadir usuarios";
+
+/* No comment provided by engineer. */
+"Add users or groups and allow them to \n read, review or edit documents." = "Añada usuarios o grupos y concédales permiso para\nleer, revisar o editar documentos.";
+
+/* No comment provided by engineer. */
+"Additional links" = "Enlaces adicionales";
+
+/* No comment provided by engineer. */
+"Address is empty" = "La dirección está vacía";
+
+/* No comment provided by engineer. */
+"Admin" = "Administrador";
+
+/* No comment provided by engineer. */
+"Administration" = "Administración";
+
+/* No comment provided by engineer. */
+"All" = "Todo";
+
+/* No comment provided by engineer. */
+"All files" = "Todos los archivos";
+
+/* Category title */
+"All Files" = "Todos los archivos";
+
+/* No comment provided by engineer. */
+"All items from Archived will be deleted forever. You won't be able to restore them." = "Todos los elementos archivados se eliminarán para siempre. No podrá restaurarlos.";
+
+/* No comment provided by engineer. */
+"All notifications" = "Todas las notificaciones";
+
+/* No comment provided by engineer. */
+"All shared links in this room will become active, and its contents will be available to everyone with the link. Do you want to restore the room?" = "Todos los enlaces compartidos en esta sala se activarán, y su contenido estará disponible para todos los que tengan el enlace. ¿Desea restaurar la sala?";
+
+/* No comment provided by engineer. */
+"Allow access via external link" = "Permitir el acceso a través de un enlace externo";
+
+/* No comment provided by engineer. */
+"An unexpected error has occurred. Please try again later. Sorry for inconvenience." = "Se ha producido un error inesperado. Inténtelo de nuevo más tarde. Disculpe las molestias.";
+
+/* No comment provided by engineer. */
+"Anyone with the link" = "Cualquier persona con el enlace";
+
+/* No comment provided by engineer. */
+"AppleId authentication failed" = "Error de la autenticación de ID de Apple";
+
+/* No comment provided by engineer. */
+"Apply your own settings to use this room for any custom purpose" = "Aplique sus propios ajustes para utilizar esta sala para cualquier fin personalizado";
+
+/* Caption of the process */
+"Applying" = "Aplicando";
+
+/* Button title
+Category title */
+"Archive" = "Archivo";
+
+/* No comment provided by engineer. */
+"Archives" = "Archivos";
+
+/* Caption of the processing */
+"Archiving" = "Archivando";
+
+/* No comment provided by engineer. */
+"Archiving failed." = "Error al archivar.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the account %@ from this devce?" = "¿Está seguro de que desea eliminar la cuenta %@ de este dispositivo?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to leave this account?" = "¿Está seguro de que quiere salir de esta cuenta?";
+
+/* No comment provided by engineer. */
+"Assign Owner" = "Asignar propietario";
+
+/* No comment provided by engineer. */
+"Author" = "Autor";
+
+/* No comment provided by engineer. */
+"Back" = "Atrás";
+
+/* No comment provided by engineer. */
+"Back to room" = "Volver a la sala";
+
+/* No comment provided by engineer. */
+"Being an owner of this DocSpace, you must transfer the ownership to another user before you can delete your account. Please choose a new owner to proceed." = "Al ser propietario de este DocSpace, debe transferir la propiedad a otro usuario antes de poder eliminar su cuenta. Por favor, elija un nuevo propietario para proceder.";
+
+/* No comment provided by engineer. */
+"Being an owner of this portal, you must transfer the ownership to another user before you can delete your account. Please choose a new owner to proceed." = "Como propietario de este portal, debe transferir la propiedad a otro usuario antes de poder eliminar su cuenta. Por favor, elija un nuevo propietario para continuar.";
+
+/* No comment provided by engineer. */
+"Box" = "Box";
+
+/* No comment provided by engineer. */
+"Box directory" = "Directorio de Box";
+
+/* No comment provided by engineer. */
+"Business subscription expired" = "Ha expirado la suscripción Business";
+
+/* No comment provided by engineer. */
+"By creating the portal you agree with our Privacy Policy and Terms of Service" = "Al crear el portal, usted acepta nuestra Política de privacidad y los Términos del servicio";
+
+/* Data units */
+"bytes" = "bytes";
+
+/* No comment provided by engineer. */
+"Cache" = "Caché";
+
+/* No comment provided by engineer. */
+"Camera Unavailable" = "Cámara no disponible";
+
+/* No comment provided by engineer. */
+"Can not create file in the folder." = "No se puede crear un archivo en la carpeta.";
+
+/* No comment provided by engineer. */
+"Can not create file with this name." = "No se puede crear el archivo con este nombre.";
+
+/* No comment provided by engineer. */
+"Can not create folder with this name." = "No se puede crear la carpeta con este nombre.";
+
+/* No comment provided by engineer. */
+"Can not duplicate the file." = "No se puede duplicar el archivo.";
+
+/* Cancel button */
+"Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Cancel invitation?" = "¿Cancelar la invitación?";
+
+/* No comment provided by engineer. */
+"Canceled" = "Cancelado";
+
+/* No comment provided by engineer. */
+"Change owner" = "Cambiar el propietario";
+
+/* No comment provided by engineer. */
+"Change room's owner" = "Cambiar el propietario de la sala";
+
+/* No comment provided by engineer. */
+"Change the Room Owner" = "Cambiar el propietario de la sala";
+
+/* No comment provided by engineer. */
+"Changing access" = "Cambiando acceso";
+
+/* No comment provided by engineer. */
+"Check ready form" = "Comprobar formulario listo";
+
+/* No comment provided by engineer. */
+"Check your internet connection" = "Compruebe la conexión a Internet";
+
+/* No comment provided by engineer. */
+"Choose Files" = "Elija archivos";
+
+/* One line. Max 50 charasters */
+"Choose Form filling room or create new" = "Elegir Sala para rellenar formularios o crear una nueva";
+
+/* No comment provided by engineer. */
+"Choose from list" = "Elegir de la lista";
+
+/* One line. Max 50 charasters */
+"Choose location with templates" = "Elija la ubicación con plantillas";
+
+/* No comment provided by engineer. */
+"Choose room type" = "Elija el tipo de sala";
+
+/* Caption of the processing */
+"Cleanup" = "Limpiar";
+
+/* Button title */
+"Clear Cache" = "Borrar caché";
+
+/* Button title */
+"Clear Cache?" = "¿Borrar caché?";
+
+/* No comment provided by engineer. */
+"Clear selection?" = "¿Borrar la selección?";
+
+/* Caption of the processing */
+"Clearing" = "Borrando";
+
+/* Close view */
+"Close" = "Cerrar";
+
+/* No comment provided by engineer. */
+"Close the document before opening a new one." = "Cierre el documento antes de abrir otro.";
+
+/* Default external storage name */
+"Cloud directory" = "Directorio de la nube";
+
+/* Cut from centimeters */
+"cm" = "cm";
+
+/* No comment provided by engineer. */
+"Collaborate on one or multiple documents with your team" = "Colabore en uno o varios documentos con su equipo";
+
+/* Introduction Step Five - Title */
+"Collaborate with your team" = "Colabore con su equipo";
+
+/* No comment provided by engineer. */
+"Collaboration" = "Colaboración";
+
+/* No comment provided by engineer. */
+"Collaboration room" = "Sala de colaboración";
+
+/* Share status */
+"Commentator" = "Comentarista";
+
+/* Category title */
+"Common Documents" = "Documentos comunes";
+
+/* Cancel */
+"common.cancel" = "Cancelar";
+
+/* Close */
+"common.close" = "Cerrar";
+
+/* Error */
+"common.error" = "Error";
+
+/* Myself */
+"common.me" = "Yo";
+
+/* OK */
+"common.ok" = "OK";
+
+/* Payment required message */
+"common.paymentRequiredMsg" = "El periodo de pago se ha expirado";
+
+/* Payment required title */
+"common.paymentRequiredTitle" = "Pago requerido";
+
+/* No comment provided by engineer. */
+"Compress Images" = "Comprimir imágenes";
+
+/* Button title */
+"Connect" = "Conectar";
+
+/* No comment provided by engineer. */
+"Connect Clouds" = "Conectar nubes";
+
+/* No comment provided by engineer. */
+"Connect Storage" = "Conectar almacenamiento";
+
+/* Introduction Step Three - Description */
+"Connect third-party storage\nlike Nextcloud, ownCloud, Yandex Disk and\nothers which use WebDAV protocol." = "Conecte el almacenamiento de terceros\ncomo Nextcloud, ownCloud, Yandex Disk y\notros que utilizan el protocolo WebDAV.";
+
+/* Footer text */
+"Connect to your %@ cloud to store files online and collaborate on documents in real time" = "Conéctese a su nube %@ para almacenar archivos en línea y colaborar en documentos en tiempo real";
+
+/* Caption of the process
+Caption of the processing */
+"Connecting" = "Conectando";
+
+/* No comment provided by engineer. */
+"Connection deinitialized" = "Conexión desinicializada";
+
+/* No comment provided by engineer. */
+"Console" = "Consola";
+
+/* No comment provided by engineer. */
+"Continue anyway" = "Continuar de todos modos";
+
+/* No comment provided by engineer. */
+"Converter" = "Convertidor";
+
+/* Button title */
+"Copy" = "Copiar";
+
+/* Button title */
+"Copy general link" = "Copiar enlace general";
+
+/* Button title */
+"Copy here" = "Copiar aquí";
+
+/* Button title */
+"Copy link" = "Copiar enlace";
+
+/* No comment provided by engineer. */
+"Copy shared link" = "Copiar enlace compartido";
+
+/* Caption of the processing */
+"Copying" = "Copiando";
+
+/* Description of file operation error */
+"Could not change file attributes" = "No se puede cambiar los atributos de archivos";
+
+/* Description of file operation error */
+"Could not change the directory" = "No se puede cambiar el directorio";
+
+/* Description of file operation error */
+"Could not copy file" = "No se puede copiar el archivo";
+
+/* No comment provided by engineer. */
+"Could not copy." = "No se puede copiar.";
+
+/* Description of file operation error */
+"Could not create a directory" = "No se puede crear un directorio";
+
+/* Description of file operation error */
+"Could not create a hard link" = "No se puede crear un enlace duro";
+
+/* Description of file operation error */
+"Could not create file" = "No se puede crear un archivo";
+
+/* Description of file operation error */
+"Could not create symlink from" = "No se puede crear un enlace simbólico desde";
+
+/* Description of file operation error */
+"Could not delete file" = "No se puede eliminar un archivo";
+
+/* No comment provided by engineer. */
+"Could not delete the file." = "No se puede eliminar el archivo.";
+
+/* No comment provided by engineer. */
+"Could not delete the folder." = "No se puede eliminar la carpeta.";
+
+/* No comment provided by engineer. */
+"Could not delete." = "No se puede eliminar.";
+
+/* No comment provided by engineer. */
+"Could not download file." = "No se puede descargar el archivo.";
+
+/* No comment provided by engineer. */
+"Could not download object." = "No se puede descargar un objeto.";
+
+/* No comment provided by engineer. */
+"Could not download the file." = "No se puede descargar el archivo.";
+
+/* No comment provided by engineer. */
+"Could not duplicate the file." = "No se puede duplicar el archivo.";
+
+/* No comment provided by engineer. */
+"Could not duplicate the room." = "No se ha podido duplicar la sala.";
+
+/* No comment provided by engineer. */
+"Could not export the file." = "No se puede exportar el archivo.";
+
+/* Description of file operation error */
+"Could not move file" = "No se puede mover un archivo";
+
+/* No comment provided by engineer. */
+"Could not open file." = "No se puede abrir el archivo.";
+
+/* No comment provided by engineer. */
+"Could not read data from the file." = "No se puede leer los datos del archivo.";
+
+/* Description of file operation error */
+"Could not read from file" = "No se puede leer desde el archivo";
+
+/* No comment provided by engineer. */
+"Could Not Send Email" = "No se ha podido enviar el correo electrónico";
+
+/* Description of file operation error */
+"Could not write to file" = "No se puede escribir en el archivo";
+
+/* No comment provided by engineer. */
+"Couldn't change the owner." = "No se ha podido cambiar el propietario.";
+
+/* No comment provided by engineer. */
+"Couldn't download the room." = "No se ha podido descargar la sala.";
+
+/* No comment provided by engineer. */
+"Couldn't leave the room" = "No se ha podido salir de la sala";
+
+/* No comment provided by engineer. */
+"Couldn't rename the file" = "No se ha podido renombrar el archivo";
+
+/* No comment provided by engineer. */
+"Couldn't save changes at server. Your modified document is saved in local storage as %@" = "No se han podido guardar los cambios en el servidor. Su documento modificado se guarda en el almacenamiento local como %@";
+
+/* No comment provided by engineer. */
+"Create" = "Crear";
+
+/* No comment provided by engineer. */
+"Create a free account" = "Cree una cuenta gratis";
+
+/* No comment provided by engineer. */
+"Create additional links to share the document with different access rights." = "Cree enlaces adicionales para compartir el documento con diferentes permisos de acceso.";
+
+/* No comment provided by engineer. */
+"Create and copy" = "Crear y copiar";
+
+/* Introduction Step Two - Description */
+"Create and edit documents with our comprehensive toolbar: work with complex objects in text documents, perform extensive calculations in spreadsheets, create stunning presentations and view PDF files with no formatting loss." = "Cree y edite documentos con nuestra barra de herramientas amplia: trabaje con objetos complejos en documentos de texto, realice cálculos extensos en hojas de cálculo, cree presentaciones asombrosas y vea archivos PDF sin la pérdida de formate.";
+
+/* No comment provided by engineer. */
+"Create new documents, spreadsheets or presentations. Create new folders to organize your files." = "Cree nuevos documentos, hojas de cálculo o presentaciones. Cree nuevas carpetas para organizar los archivos.";
+
+/* No comment provided by engineer. */
+"Create new files" = "Crear nuevos archivos";
+
+/* No comment provided by engineer. */
+"Create new folder" = "Crear nueva carpeta";
+
+/* No comment provided by engineer. */
+"Create new folders to \norganize your files." = "Cree nuevas carpetas para organizar sus archivos.";
+
+/* Button title */
+"Create room" = "Crear sala";
+
+/* Caption of the process
+Caption of the processing */
+"Creating" = "Creando";
+
+/* No comment provided by engineer. */
+"Custom" = "Personalizada";
+
+/* Share status */
+"Custom filter" = "Filtro personalizado";
+
+/* No comment provided by engineer. */
+"Custom room" = "Sala personalizada";
+
+/* No comment provided by engineer. */
+"Dark" = "Oscuro";
+
+/* No comment provided by engineer. */
+"Date" = "Fecha";
+
+/* Button title */
+"Delete" = "Eliminar";
+
+/* Button title */
+"Delete File" = "Eliminar archivo";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Eliminar carpeta";
+
+/* No comment provided by engineer. */
+"Delete forever" = "Eliminar para siempre";
+
+/* No comment provided by engineer. */
+"Delete forever?" = "¿Eliminar para siempre?";
+
+/* No comment provided by engineer. */
+"Delete from device" = "Eliminar del dispositivo";
+
+/* No comment provided by engineer. */
+"Delete link" = "Eliminar enlace";
+
+/* No comment provided by engineer. */
+"Deleted" = "Eliminado";
+
+/* Caption of the processing */
+"Deleting" = "Eliminando";
+
+/* Share status */
+"Deny Access" = "Denegar acceso";
+
+/* No comment provided by engineer. */
+"Deselect all" = "Anular selección";
+
+/* No comment provided by engineer. */
+"Developer options" = "Opciones del desarrollador";
+
+/* No comment provided by engineer. */
+"Disable if you do not want to receive notifications from the %@" = "Desactive si no desea recibir notificaciones de %@";
+
+/* No comment provided by engineer. */
+"Disable notifications" = "Desactivar notificaciones";
+
+/* Button title */
+"Disconnect third party" = "Desconectar el tercero";
+
+/* No comment provided by engineer. */
+"Do you really want to leave this room? You will be able to join it again via new invitation by a room admin." = "¿Desea realmente salir de esta sala? Podrá volver a entrar a través de una nueva invitación de un administrador de la sala.";
+
+/* No comment provided by engineer. */
+"DocSpace admin" = "Administrador de DocSpace";
+
+/* No comment provided by engineer. */
+"Document" = "Documento";
+
+/* Default title of sample document */
+"Document Sample" = "Ejemplo de documento";
+
+/* Category title */
+"Documents" = "Documentos";
+
+/* Button title
+Operation completed */
+"Done" = "Hecho";
+
+/* Button title */
+"Download" = "Descargar";
+
+/* Caption of the processing */
+"Downloading" = "Descargando";
+
+/* No comment provided by engineer. */
+"DoсSpace users only" = "Solo usuarios de DoсSpace";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Dropbox directory" = "Directorio de Dropbox";
+
+/* Button title */
+"Duplicate" = "Duplicar";
+
+/* Caption of the processing */
+"Duplication" = "Duplicación";
+
+/* Data units */
+"Eb" = "Eb";
+
+/* Button title */
+"Edit" = "Editar";
+
+/* Introduction Step Four - Title */
+"Edit documents locally" = "Editar documentos localmente";
+
+/* No comment provided by engineer. */
+"Edit link" = "Editar enlace";
+
+/* Button title */
+"Edit room" = "Editar sala";
+
+/* Share status */
+"Editor" = "Editor";
+
+/* No comment provided by engineer. */
+"Email" = "Correo electrónico";
+
+/* No comment provided by engineer. */
+"Email address" = "Dirección de correo electrónico";
+
+/* No comment provided by engineer. */
+"Email is empty" = "El correo electrónico está vacío";
+
+/* No comment provided by engineer. */
+"Email is incorrect." = "El correo electrónico es incorrecto.";
+
+/* No comment provided by engineer. */
+"Email is not valid" = "El correo electrónico no es válido";
+
+/* No comment provided by engineer. */
+"Empty name." = "Nombre vacío.";
+
+/* No comment provided by engineer. */
+"Enable if you want to receive notifications from the %@" = "Active si desea recibir notificaciones de %@";
+
+/* No comment provided by engineer. */
+"Enable notifications" = "Activar notificaciones";
+
+/* No comment provided by engineer. */
+"Enable this setting to disable downloads of files and folders from this room shared via a link" = "Active esta opción para desactivar las descargas de archivos y carpetas de esta sala compartidos a través de un enlace.";
+
+/* No comment provided by engineer. */
+"Enable time limit" = "Activar límite de tiempo";
+
+/* Presentation Viewer */
+"End Slide Show" = "Finalizar presentación";
+
+/* placeholder */
+"Enter email" = "Introduzca el correo electrónico";
+
+/* No comment provided by engineer. */
+"Enter Portal Address" = "Introduzca la dirección del portal";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"Error code: %ld" = "Código de error: %ld";
+
+/* Access is Forbidden message */
+"error.errorForbiddenMsg" = "Contacte con el administrador del portal para acceder al recurso.";
+
+/* Access is Forbidden title */
+"error.errorForbiddenTitle" = "El acceso está prohibido";
+
+/* The resource can not be found Title */
+"error.errorNotFoundMsg" = "El recurso no se puede encontrar";
+
+/* Unknown Server Error */
+"error.errorServerTitle" = "Error del servidor";
+
+/* No comment provided by engineer. */
+"Exclude subfolders" = "No hay subcarpetas";
+
+/* No comment provided by engineer. */
+"Expect users" = "Esperar usuarios";
+
+/* Expiration status */
+"Expired" = "Expirado";
+
+/* No comment provided by engineer. */
+"Expires after 7 days" = "Expira dentro de 7 días";
+
+/* Button title */
+"Export" = "Exportar";
+
+/* No comment provided by engineer. */
+"External link" = "Enlace externo";
+
+/* No comment provided by engineer. */
+"Failed to check portal availability." = "Error al verificar la disponibilidad de portal.";
+
+/* No comment provided by engineer. */
+"Failed to check the name of the portal" = "Error al verificar el nombre del portal";
+
+/* No comment provided by engineer. */
+"Failed to connect folder." = "Error al conectar la carpeta.";
+
+/* No comment provided by engineer. */
+"Failed to copy: %@" = "Error al copiar: %@";
+
+/* No comment provided by engineer. */
+"Failed to get file information from the server." = "Fallo al recibir la información sobre archivo del servidor.";
+
+/* No comment provided by engineer. */
+"Failed to get file list." = "Error al obtener la lista de archivos.";
+
+/* No comment provided by engineer. */
+"Failed to get information about the file." = "Fallo al obtener información del archivo.";
+
+/* No comment provided by engineer. */
+"Failed to get the address of the document server." = "Fallo al recibir la dirección del servidor de documentos.";
+
+/* No comment provided by engineer. */
+"Failed to move: %@" = "Error al mover: %@";
+
+/* No comment provided by engineer. */
+"Failed to send feedback by mail. Try to write your request on our forum." = "No se pudo enviar la información por correo. Intente escribir su solicitud en nuestro foro.";
+
+/* No comment provided by engineer. */
+"Failed to submit the form" = "Error al enviar el el formulario";
+
+/* No comment provided by engineer. */
+"Failure to prepare the archive" = "Error al preparar el archivo";
+
+/* Category title */
+"Favorites" = "Favoritos";
+
+/* No comment provided by engineer. */
+"Features" = "Características";
+
+/* Description of file operation error */
+"File already exists" = "El archivo ya existe";
+
+/* Description of file operation error */
+"File does not exist" = "El archivo no existe";
+
+/* No comment provided by engineer. */
+"Files" = "Archivos";
+
+/* No comment provided by engineer. */
+"Files and folders uploaded by admins will appear here." = "Los archivos y carpetas subidos por los administradores aparecerán aquí.";
+
+/* No comment provided by engineer. */
+"Files Preview" = "Vista previa de archivos";
+
+/* Fill form Button title */
+"Fill" = "Relleno";
+
+/* Title for fill-in options screen */
+"Fill in as" = "Rellenar como";
+
+/* Subtitle for form filling */
+"Fill in the fields of the original form in the editor window." = "Rellene los campos del formulario original en la ventana del editor.";
+
+/* Title for opening form filling */
+"Fill out the form yourself" = "Rellene el formulario usted mismo";
+
+/* No comment provided by engineer. */
+"Filling form" = "Relleno del formularios";
+
+/* No comment provided by engineer. */
+"Filters" = "Filtros";
+
+/* No comment provided by engineer. */
+"First name is incorrect" = "El nombre es incorrecto";
+
+/* No comment provided by engineer. */
+"Folder title" = "Título de carpeta";
+
+/* No comment provided by engineer. */
+"Folders" = "Carpetas";
+
+/* No comment provided by engineer. */
+"Form completed successfully" = "Formulario rellenado correctamente";
+
+/* Share status */
+"Form Filler" = "Rellenador de formularios";
+
+/* No comment provided by engineer. */
+"Form Filling" = "Rellenado de formularios";
+
+/* No comment provided by engineer. */
+"Form Filling Room" = "Sala para rellenar formularios";
+
+/* No comment provided by engineer. */
+"Form number" = "Número del formulario";
+
+/* No comment provided by engineer. */
+"Form owner" = "Propietario del formulario";
+
+/* No comment provided by engineer. */
+"Form templates" = "Plantillas de formularios";
+
+/* No comment provided by engineer. */
+"Forms" = "Formularios";
+
+/* No comment provided by engineer. */
+"From device" = "Desde el dispositivo";
+
+/* No comment provided by engineer. */
+"From DocSpace" = "Desde DocSpace";
+
+/* Share status */
+"Full Access" = "Acceso completo";
+
+/* Data units */
+"Gb" = "Gb";
+
+/* No comment provided by engineer. */
+"General" = "General";
+
+/* No comment provided by engineer. */
+"General links" = "Enlaces generales";
+
+/* No comment provided by engineer. */
+"Get started" = "Comenzar";
+
+/* No comment provided by engineer. */
+"Get started with quick actions: " = "Empiece con acciones rápidas:";
+
+/* No comment provided by engineer. */
+"GET STARTED!" = "¡COMENZAR!";
+
+/* Introduction Step One - Title */
+"Getting started" = "Comenzando";
+
+/* No comment provided by engineer. */
+"Go to forum" = "Ir al foro";
+
+/* No comment provided by engineer. */
+"Google directory" = "Directorio de Google";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google Drive";
+
+/* No comment provided by engineer. */
+"Groups" = "Grupos";
+
+/* No comment provided by engineer. */
+"Here you will find a list of the recently opened files shared with you via an external link." = "Aquí encontrará una lista de los archivos abiertos recientemente y compartidos con usted a través de un enlace externo.";
+
+/* No comment provided by engineer. */
+"iCloud" = "iCloud";
+
+/* No comment provided by engineer. */
+"iCloud Drive" = "iCloud Drive";
+
+/* Button title */
+"Icons" = "Iconos";
+
+/* Email sent instructions */
+"If a user with the mail %@ exists, then an instruction to change the password was sent to this address." = "Si existe un usuario con el correo %@, entonces se enviaron las instrucciones para cambiar la contraseña a esta dirección.";
+
+/* No comment provided by engineer. */
+"Images" = "Imágenes";
+
+/* No comment provided by engineer. */
+"Import File" = "Importar archivo";
+
+/* No comment provided by engineer. */
+"Import Image" = "Importar imagen";
+
+/* Introduction Step Five - Description */
+"In online mode, use real-time co-editing features of %@ to work on documents together with your portal members, share documents and create common storage folders." = "Use las opciones de co-edición de %@ en el tiempo real en el modo en línea para trabajar con documentos junto con otros miembros de portal, comparta documentos y cree carpetas de almacenamiento.";
+
+/* No comment provided by engineer. */
+"Incorrect portal address" = "Dirección de portal incorrecta";
+
+/* Button title */
+"Info" = "Información";
+
+/* No comment provided by engineer. */
+"Information" = "Información";
+
+/* No comment provided by engineer. */
+"Instructions had been sent to your email" = "Las instrucciones se han enviado a su correo electrónico";
+
+/* No comment provided by engineer. */
+"Invalid Country Code" = "Código de país inválido";
+
+/* No comment provided by engineer. */
+"Invalid Data" = "Datos no válidos";
+
+/* No comment provided by engineer. */
+"Invalid folder" = "Carpeta no válida";
+
+/* No comment provided by engineer. */
+"Invalid Url" = "URL no válida";
+
+/* No comment provided by engineer. */
+"Invite" = "Invitar";
+
+/* No comment provided by engineer. */
+"Invite people" = "Invitar a personas";
+
+/* No comment provided by engineer. */
+"Invite people by email" = "Invitar a personas por correo electrónico";
+
+/* Button title */
+"Invite users" = "Invitar a usuarios";
+
+/* No comment provided by engineer. */
+"Invite users via shared links to view documents without registration. You can also embed this room into any web interface." = "Invite a los usuarios mediante enlaces compartidos para que vean los documentos sin necesidad de registrarse. También puede incrustar esta sala en cualquier interfaz web.";
+
+/* Data units */
+"Kb" = "Kb";
+
+/* No comment provided by engineer. */
+"kDrive" = "kDrive";
+
+/* No comment provided by engineer. */
+"kDrive directory" = "Directorio de kDrive";
+
+/* No comment provided by engineer. */
+"Last name is empty" = "El apellido está vacío";
+
+/* No comment provided by engineer. */
+"Last name is incorrect" = "El apellido es incorrecto";
+
+/* Button title */
+"Leave the room" = "Salir de la sala";
+
+/* No comment provided by engineer. */
+"Light" = "Vuelo";
+
+/* No comment provided by engineer. */
+"Link" = "Enlace";
+
+/* No comment provided by engineer. */
+"Link and password\nsuccessfully copied\nto clipboard" = "Enlace y contraseña\ncopiados con éxito\nal portapapeles";
+
+/* No comment provided by engineer. */
+"Link copied\nto the clipboard" = "El enlace se ha copiado al portapapeles";
+
+/* No comment provided by engineer. */
+"Link life time" = "Duración del enlace";
+
+/* No comment provided by engineer. */
+"Link name" = "Nombre del enlace";
+
+/* No comment provided by engineer. */
+"Link name %@" = "Nombre del enlace %@";
+
+/* Button title */
+"Link successfully\ncopied to clipboard" = "Enlace copiado\ncon éxito al portapapeles";
+
+/* No comment provided by engineer. */
+"Link with the invitation has been sent to the mail" = "Se ha enviado al correo electrónico el enlace con la invitación";
+
+/* Button title */
+"List" = "Lista";
+
+/* No comment provided by engineer. */
+"Loading" = "Cargando";
+
+/* No comment provided by engineer. */
+"Location" = "Ubicación";
+
+/* Caption of the process */
+"Logging in" = "Iniciando sesión";
+
+/* No comment provided by engineer. */
+"Login" = "Acceso";
+
+/* No comment provided by engineer. */
+"Login by %@" = "Iniciar sesión por";
+
+/* No comment provided by engineer. */
+"Login is empty" = "El login está vacío";
+
+/* Button title
+Caption of the process */
+"Logout" = "Cerrar sesión";
+
+/* Button title */
+"Mark as Favorite" = "Marcar como favorito";
+
+/* Button title */
+"Mark as Read" = "Marcar como leído";
+
+/* No comment provided by engineer. */
+"Mark as Read failed." = "Error al marcar como leído.";
+
+/* Data units */
+"Mb" = "Mb";
+
+/* Author or member of a document
+If current user name is not set */
+"Me" = "Yo";
+
+/* No comment provided by engineer. */
+"Media" = "Medios";
+
+/* No comment provided by engineer. */
+"Member" = "Miembro";
+
+/* Button title */
+"More" = "Más";
+
+/* Button title */
+"Move" = "Mover";
+
+/* Button title */
+"Move from archive" = "Mover desde archivo";
+
+/* Button title */
+"Move here" = "Mover aquí";
+
+/* Button title */
+"Move or Copy" = "Mover o copiar";
+
+/* Button title */
+"Move to archive" = "Mover a Archivo";
+
+/* Caption of the processing */
+"Moving" = "Moviendo";
+
+/* Caption of the processing */
+"Moving from archive" = "Moviendo desde archivo";
+
+/* Category title */
+"My archived" = "Mis archivos";
+
+/* No comment provided by engineer. */
+"My Clouds" = "Mis Nubes";
+
+/* Category title */
+"My Documents" = "Mis Documentos";
+
+/* No comment provided by engineer. */
+"My Drive" = "Mi Drive";
+
+/* No comment provided by engineer. */
+"Name is empty" = "El nombre está vacío";
+
+/* Badge of file in file list */
+"new" = "nuevo";
+
+/* No comment provided by engineer. */
+"New" = "Nuevo";
+
+/* No comment provided by engineer. */
+"New Document" = "Nuevo documento";
+
+/* No comment provided by engineer. */
+"New folder" = "Nueva carpeta";
+
+/* No comment provided by engineer. */
+"New Folder" = "Nueva carpeta";
+
+/* Suggested a room name when create a new one */
+"New form filling" = "Nuevo rellenado de formularios";
+
+/* No comment provided by engineer. */
+"New form filling room" = "Nueva sala para rellenar formularios";
+
+/* No comment provided by engineer. */
+"New Presentation" = "Nueva presentación";
+
+/* No comment provided by engineer. */
+"New room" = "Nueva sala";
+
+/* No comment provided by engineer. */
+"New Spreadsheet" = "Nueva hoja de cálculo";
+
+/* No comment provided by engineer. */
+"New users" = "Nuevos usuarios";
+
+/* Next step */
+"Next" = "Siguiente";
+
+/* No comment provided by engineer. */
+"Nextcloud" = "Nextcloud";
+
+/* No comment provided by engineer. */
+"NextCloud" = "NextCloud";
+
+/* No comment provided by engineer. */
+"Nextcloud directory" = "Directorio de Nextcloud";
+
+/* No comment provided by engineer. */
+"No archived rooms here yet" = "Todavía no hay salas archivadas aquí";
+
+/* No comment provided by engineer. */
+"No client IDs of application" = "No hay identificadores del cliente de la aplicación";
+
+/* No comment provided by engineer. */
+"No connection" = "Sin conexión";
+
+/* No comment provided by engineer. */
+"No docs here yet" = "Todavía no hay documentos aquí";
+
+/* No comment provided by engineer. */
+"No files here yet" = "Todavía no hay archivos aquí";
+
+/* No comment provided by engineer. */
+"No information about the user profile." = "No hay información sobre el perfil de usuario.";
+
+/* No comment provided by engineer. */
+"No Internet connection" = "No hay conexión a Internet";
+
+/* No comment provided by engineer. */
+"No network" = "No hay red";
+
+/* No comment provided by engineer. */
+"No network connection can be found. Please check the connection and reload the page." = "No se puede encontrar ninguna conexión de red. Por favor, compruebe la conexión y vuelva a cargar la página.";
+
+/* No comment provided by engineer. */
+"No results matching your search could be found. Please try another phrase." = "No se ha encontrado ningún resultado que coincida con su búsqueda. Por favor pruebe otra frase.";
+
+/* No comment provided by engineer. */
+"No search result" = "No hay resultados de búsqueda";
+
+/* No comment provided by engineer. */
+"No Search Result" = "No hay resultados de búsqueda";
+
+/* No comment provided by engineer. */
+"No users found" = "No se han encontrado usuarios";
+
+/* If the cache is empty
+Share status */
+"None" = "Ninguno";
+
+/* No comment provided by engineer. */
+"Note: removal from your account can not be undone." = "Nota: la eliminación de su cuenta no se puede deshacer.";
+
+/* No comment provided by engineer. */
+"Nothing to show" = "Nada que mostrar";
+
+/* No comment provided by engineer. */
+"Notifications" = "Notificaciones";
+
+/* Sharing settings switcher */
+"Notify by Email" = "Notificar por email";
+
+/* Used in the context: 'Showing 1 of 3 items' */
+"of" = "de";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Category title */
+"On iPad" = "En el iPad";
+
+/* Category title */
+"On iPhone" = "En el iPhone";
+
+/* No comment provided by engineer. */
+"OneDrive" = "OneDrive";
+
+/* No comment provided by engineer. */
+"OneDrive directory" = "Directorio de OneDrive";
+
+/* No comment provided by engineer. */
+"OneDrive for Business" = "OneDrive para empresas";
+
+/* No comment provided by engineer. */
+"Only a room administrator or a DocSpace administrator can become the room owner." = "Solo un administrador de sala o un administrador de DocSpace puede convertirse en propietario de sala.";
+
+/* Short App Name */
+"ONLYOFFICE" = "ONLYOFFICE";
+
+/* Full App Name */
+"ONLYOFFICE Documents" = "ONLYOFFICE Documents";
+
+/* No comment provided by engineer. */
+"ONLYOFFICE Personal is wrapping up" = "ONLYOFFICE Personal dejará de funcionar";
+
+/* No comment provided by engineer. */
+"ONLYOFFICE Personal will be discontinued on September 1st, 2024. We recommend you move to the free ONLYOFFICE DocSpace Cloud." = "ONLYOFFICE Personal se descontinuará el 1 de septiembre de 2024. Le recomendamos que pase al servicio gratuito ONLYOFFICE DocSpace Cloud.";
+
+/* Full App Name */
+"ONLYOFFICE portal" = "Portal de ONLYOFFICE";
+
+/* No comment provided by engineer. */
+"Oops!" = "¡Vaya!";
+
+/* Button title */
+"Open" = "Abrir";
+
+/* No comment provided by engineer. */
+"Open Document" = "Abrir documento";
+
+/* No comment provided by engineer. */
+"Open Folder" = "Abrir carpeta";
+
+/* Caption of the processing */
+"Opening" = "Abriendo";
+
+/* No comment provided by engineer. */
+"Options" = "Opciones";
+
+/* No comment provided by engineer. */
+"Order" = "Ordenar";
+
+/* No comment provided by engineer. */
+"Other" = "Otro";
+
+/* Button title */
+"Overwrite" = "Sobrescribir";
+
+/* Button title */
+"Overwrite confirmation" = "Sobrescribir confirmación";
+
+/* No comment provided by engineer. */
+"ownCloud" = "ownCloud";
+
+/* No comment provided by engineer. */
+"ownCloud directory" = "Directorio de ownCloud";
+
+/* Table cell right holder acces text */
+"Owner" = "Propietario";
+
+/* No comment provided by engineer. */
+"Passcode Lock" = "Bloqueo de contraseña";
+
+/* No comment provided by engineer. */
+"Password" = "Contraseña";
+
+/* No comment provided by engineer. */
+"Password access" = "Acceso mediante contraseña";
+
+/* No comment provided by engineer. */
+"Password is empty" = "La contraseña está vacía";
+
+/* No comment provided by engineer. */
+"Passwords do not match" = "Contraseñas no coinciden";
+
+/* Data units */
+"Pb" = "Pb";
+
+/* Default title of sample document */
+"PDF Form Sample" = "Modelo de formulario PDF";
+
+/* No comment provided by engineer. */
+"Phone" = "Teléfono";
+
+/* No comment provided by engineer. */
+"Phone is incorrect" = "El número de teléfono es incorrecto";
+
+/* Used in the context: '1 photo' */
+"photo" = "foto";
+
+/* No comment provided by engineer. */
+"Photo Library" = "Biblioteca de Fotos";
+
+/* No comment provided by engineer. */
+"Photo Library Unavailable" = "Biblioteca de Fotos no está disponible";
+
+/* Used in the context: '3 photos' */
+"photos" = "fotos";
+
+/* Button title */
+"Pin to top" = "Anclar al principio";
+
+/* Caption of the processing */
+"Pinning" = "Anclando";
+
+/* No comment provided by engineer. */
+"Please go to Settings and enable the camera for this app to use this feature." = "Por favor vaya a Ajustes y active la cámara para que la aplicación use esta característica.";
+
+/* No comment provided by engineer. */
+"Please go to Settings and enable the photo library for this app to use this feature." = "Por favor, vaya a los ajustes y habilite la biblioteca de fotos para esta aplicación para utilizar esta característica.";
+
+/* No comment provided by engineer. */
+"Please re-login to renew your session." = "Por favor, vuelva a iniciar sesión para reanudar la sesión.";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: Box - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, póngase en contacto con nosotros y mencione este código de error: Box - %@";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: Dropbox - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, póngase en contacto con nosotros y mencione este código de error: Dropbox - %@";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: Google - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, póngase en contacto con nosotros y mencione este código de error: Google - %@";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: Microsoft - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, póngase en contacto con nosotros y mencione este código de error: Microsoft - %@";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: OneDrive - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, póngase en contacto con nosotros y mencione este código de error: OneDrive - %@";
+
+/* No comment provided by engineer. */
+"Please retry. \n\n If the problem persists contact us and mention this error code: SSO - %@" = "Por favor, intente de nuevo.\n\nSi el problema persiste, contáctenos y mencione este código de error: SSO - %@";
+
+/* No comment provided by engineer. */
+"Portal Address" = "Dirección del portal";
+
+/* No comment provided by engineer. */
+"Portal is unavailable." = "El portal no está disponible.";
+
+/* Share status */
+"Pover user" = "Usuario avanzado";
+
+/* Share status */
+"Power user" = "Usuario avanzado";
+
+/* No comment provided by engineer. */
+"Presentation" = "Presentación";
+
+/* Default title of sample document */
+"Presentation Sample" = "Ejemplo de presentación";
+
+/* No comment provided by engineer. */
+"Presentations" = "Presentaciones";
+
+/* Button title */
+"Preview" = "Vista previa";
+
+/* Part of phrases - By creating the portal you agree with our Privacy Policy and Terms of Service */
+"Privacy Policy" = "Política de Privacidad";
+
+/* Caption of the processing */
+"Processing" = "Procesando";
+
+/* No comment provided by engineer. */
+"Profile" = "Perfil";
+
+/* Category title */
+"Project Documents" = "Documentos de proyecto";
+
+/* No comment provided by engineer. */
+"Protection" = "Protección";
+
+/* No comment provided by engineer. */
+"Provide access to the document and set the permission levels." = "Proporcione acceso al documento y establezca los niveles de acceso.";
+
+/* No comment provided by engineer. */
+"Provide general access to the document selecting the required permission level." = "Proporcione acceso general al documento seleccionando el nivel de permiso requerido.";
+
+/* No comment provided by engineer. */
+"Public" = "Público";
+
+/* No comment provided by engineer. */
+"Public link" = "Enlace público";
+
+/* No comment provided by engineer. */
+"Public room" = "Sala pública";
+
+/* No comment provided by engineer. */
+"Push notifications disabled" = "Notificaciones push desactivadas";
+
+/* Category title */
+"Recent" = "Reciente";
+
+/* No comment provided by engineer. */
+"Recently accessible via link" = "Accesible recientemente mediante enlace";
+
+/* Button title */
+"Recover here" = "Recuperar aquí";
+
+/* Caption of the processing */
+"Recovery" = "Recuperación";
+
+/* No comment provided by engineer. */
+"Regenerate link" = "Volver a generar enlace";
+
+/* No comment provided by engineer. */
+"Registration" = "Registro";
+
+/* No comment provided by engineer. */
+"Reload" = "Recargar";
+
+/* No comment provided by engineer. */
+"Remove" = "Eliminar";
+
+/* Button title */
+"Remove from Favorites" = "Eliminar de Favoritos";
+
+/* No comment provided by engineer. */
+"Remove link" = "Eliminar enlace";
+
+/* Caption of the process */
+"Removing" = "Eliminando";
+
+/* Button title */
+"Rename" = "Renombrar";
+
+/* No comment provided by engineer. */
+"Rename failed." = "Error al renombrar.";
+
+/* No comment provided by engineer. */
+"Rename failed. An object with such a similar name exists." = "Error al renombrar. Ya existe un objeto con un nombre similar.";
+
+/* Caption of the processing */
+"Renaming" = "Asignando nombre";
+
+/* No comment provided by engineer. */
+"Renew Business plan" = "Renovar el plan Business";
+
+/* No comment provided by engineer. */
+"Renewal" = "Renovación";
+
+/* No comment provided by engineer. */
+"Request canceled" = "Solicitud cancelada";
+
+/* No comment provided by engineer. */
+"Request Entity Too Large" = "Entidad solicitada demasiado grande";
+
+/* No comment provided by engineer. */
+"Request had insufficient authentication scopes" = "La solicitud tenía un grado de autentificación insuficiente";
+
+/* No comment provided by engineer. */
+"Reset" = "Restablecer";
+
+/* Button title */
+"Restore" = "Restaurar";
+
+/* No comment provided by engineer. */
+"Restore room?" = "¿Restaurar la sala?";
+
+/* Caption of the processing */
+"Restoring" = "Restaurando";
+
+/* No comment provided by engineer. */
+"Restrict file content copy, file download and printing" = "Restringir la copia, descarga e impresión del contenido de los archivos";
+
+/* Share status */
+"Reviewer" = "Revisor";
+
+/* No comment provided by engineer. */
+"Revoke link" = "Revocar enlace";
+
+/* No comment provided by engineer. */
+"Revoked" = "Revocada";
+
+/* No comment provided by engineer. */
+"Revoking" = "Revocando";
+
+/* No comment provided by engineer. */
+"Roles" = "Roles";
+
+/* Share status */
+"Room admin" = "Administrador de sala";
+
+/* No comment provided by engineer. */
+"Room created!" = "¡Sala creada!";
+
+/* No comment provided by engineer. */
+"Room name" = "Nombre de sala";
+
+/* Category title
+DocSpace rooms */
+"Rooms" = "Salas";
+
+/* No comment provided by engineer. */
+"Root folder" = "Carpeta raíz";
+
+/* No comment provided by engineer. */
+"Same as system" = "Igual que el sistema";
+
+/* No comment provided by engineer. */
+"Save" = "Guardar";
+
+/* Caption of the processing */
+"Saving" = "Guardando";
+
+/* No comment provided by engineer. */
+"Search" = "Buscar";
+
+/* Button title
+Navigation bar button title */
+"Select" = "Seleccionar";
+
+/* One line. Max 50 charasters */
+"Select a PDF Form" = "Seleccione un formulario PDF";
+
+/* No comment provided by engineer. */
+"Select all" = "Seleccionar todo";
+
+/* No comment provided by engineer. */
+"Select another cloud to connect to Nextcloud, ownCloud and others are supported." = "Seleccione otra nube para conectarse a Nextcloud, ownCloud y otras nubes soportadas.";
+
+/* No comment provided by engineer. */
+"Select group" = "Seleccionar grupo";
+
+/* Button title */
+"Select location" = "Seleccionar ubicación";
+
+/* No comment provided by engineer. */
+"Select Photos" = "Seleccionar fotos";
+
+/* One line. Max 50 charasters */
+"Select the folder to copy the items" = "Seleccionar la carpeta para copiar los objetos";
+
+/* One line. Max 50 charasters */
+"Select the folder to move the items" = "Seleccionar la carpeta para mover los objetos";
+
+/* One line. Max 50 charasters */
+"Select the folder to recover the items" = "Seleccionar la carpeta para recuperar los objetos";
+
+/* No comment provided by engineer. */
+"Select user" = "Seleccionar usuario";
+
+/* No comment provided by engineer. */
+"Selected provider is not available" = "El proveedor seleccionado no está disponible";
+
+/* No comment provided by engineer. */
+"Selected users will not be invited to the room" = "Los usuarios seleccionados no serán invitados a la sala";
+
+/* No comment provided by engineer. */
+"Selected: %ld" = "Seleccionado: %ld";
+
+/* No comment provided by engineer. */
+"Selecting access rights" = "Seleccionando los derechos de acceso";
+
+/* No comment provided by engineer. */
+"Send" = "Enviar";
+
+/* No comment provided by engineer. */
+"Send the profile deletion instructions to the email address %@?" = "¿Enviar las instrucciones para eliminar el perfil a la dirección de correo electrónico %@?";
+
+/* Caption of the process */
+"Sending" = "Enviando";
+
+/* No comment provided by engineer. */
+"Set favorite failed." = "Error al marcar como favorito.";
+
+/* No comment provided by engineer. */
+"Settings" = "Ajustes";
+
+/* No comment provided by engineer. */
+"Settings and Security" = "Ajustes y seguridad";
+
+/* No comment provided by engineer. */
+"Share" = "Compartir";
+
+/* Title for sharing and collecting form */
+"Share & collect" = "Compartir y recopilar";
+
+/* No comment provided by engineer. */
+"Share folder" = "Compartir carpeta";
+
+/* Subtitle for sharing form */
+"Share your form and collect responses via a Form filling room." = "Comparta su formulario y recopile respuestas a través de una sala para rellenar formularios.";
+
+/* No comment provided by engineer. */
+"Shared access" = "Acceso compartido";
+
+/* No comment provided by engineer. */
+"Shared link" = "Enlace compartido";
+
+/* No comment provided by engineer. */
+"Shared links" = "Enlaces compartidos";
+
+/* Category title */
+"Shared with Me" = "Compartido para mí";
+
+/* No comment provided by engineer. */
+"SharePoint directory" = "Directorio de SharePoint";
+
+/* Caption of the process */
+"Sharing" = "Compartiendo";
+
+/* No comment provided by engineer. */
+"Sharing settings" = "Ajustes de uso compartido";
+
+/* Button title */
+"Sharing Settings" = "Ajustes de uso compartido";
+
+/* No comment provided by engineer. */
+"Show %d results" = "Mostrar %d resultados";
+
+/* No comment provided by engineer. */
+"Show notifications" = "Mostrar notificaciones";
+
+/* No comment provided by engineer. */
+"Sign in" = "Registrarse";
+
+/* No comment provided by engineer. */
+"Single Sign-on" = "Inicio de sesión único";
+
+/* No comment provided by engineer. */
+"Size" = "Tamaño";
+
+/* Button title */
+"Skip" = "Saltar";
+
+/* No comment provided by engineer. */
+"SKIP" = "SALTAR";
+
+/* Presentation Viewer */
+"Slide %i of %i" = "Diapositiva %1$i de %2$i";
+
+/* No comment provided by engineer. */
+"Something went wrong, try again" = "Se ha producido un problema. Vuelva a intentarlo";
+
+/* No comment provided by engineer. */
+"Something wrong" = "Algo va mal";
+
+/* Button title */
+"Sort" = "Clasificar";
+
+/* No comment provided by engineer. */
+"Spreadsheet" = "Hoja de cálculo";
+
+/* Default title of sample document */
+"Spreadsheet Sample" = "Ejemplo de hoja de cálculo";
+
+/* No comment provided by engineer. */
+"Spreadsheets" = "Hojas de cálculo";
+
+/* No comment provided by engineer. */
+"Storage" = "Almacenamiento";
+
+/* No comment provided by engineer. */
+"Support" = "Soporte";
+
+/* No comment provided by engineer. */
+"Switch" = "Cambiar";
+
+/* No comment provided by engineer. */
+"Tag" = "Etiqueta";
+
+/* No comment provided by engineer. */
+"Tags" = "Etiquetas";
+
+/* No comment provided by engineer. */
+"Take a Picture" = "Tomar una foto";
+
+/* No comment provided by engineer. */
+"Take Photo" = "Tomar foto";
+
+/* Data units */
+"Tb" = "Tb";
+
+/* No comment provided by engineer. */
+"Terminate account" = "Terminar cuenta";
+
+/* Part of phrases - By creating the portal you agree with our Privacy Policy and Terms of Service */
+"Terms of Service" = "Términos del servicio";
+
+/* Notification title */
+"Text copied" = "Texto copiado";
+
+/* No comment provided by engineer. */
+"The %@ server is not available." = "El servidor %@ no está disponible.";
+
+/* No comment provided by engineer. */
+"The account name must be between 6 and 50 characters long" = "El nombre de cuenta debe tener entre 6 y 50 caracteres de longitud";
+
+/* No comment provided by engineer. */
+"The deleted files go to the trash. You can either restore or delete them forever." = "Los archivos eliminados serán enviados a la papelera. Puede restaurarlos o eliminarlos para siempre.";
+
+/* No comment provided by engineer. */
+"The file in the Trash can not be viewed." = "No se puede visualizar el archivo en la papelera.";
+
+/* No comment provided by engineer. */
+"The file will be irretrievably deleted. This action is irreversible." = "El archivo será eliminado irremediablemente. Esta acción es irreversible.";
+
+/* No comment provided by engineer. */
+"The filled PDF form is saved and available to you\n in the Complete folder. To check the status,\n contact the form owner providing the assigned number." = "El formulario PDF rellenado se guarda y queda a su disposición\nen la carpeta Completado. Para comprobar el estado,\npóngase en contacto con el propietario del formulario facilitándole el número asignado.";
+
+/* No comment provided by engineer. */
+"The folder in the Trash can not be opened." = "La carpeta en la papelera no puede abrirse.";
+
+/* No comment provided by engineer. */
+"The item with the name '%@' already exists in the folder '%@'." = "El objeto con el nombre '%1$@' ya existe en la carpeta '%2$@'.";
+
+/* No comment provided by engineer. */
+"The link for external\naccess is copied\nto the clipboard" = "El enlace para acceso externo se ha copiado en el portapapeles";
+
+/* Expiration status */
+"The link has expired" = "El enlace ha expirado";
+
+/* No comment provided by engineer. */
+"The link has expired and has been disabled" = "El enlace ha expirado y se ha desactivado";
+
+/* No comment provided by engineer. */
+"The link will be deleted permanently. You will not be able to undo this action." = "El enlace se eliminará de forma permanente. No podrá deshacer esta acción.";
+
+/* No comment provided by engineer. */
+"The list of users previously invited to DocSpace or separate rooms will appear here." = "Aquí aparecerá la lista de usuarios previamente invitados a DocSpace o a salas separadas.";
+
+/* No comment provided by engineer. */
+"The new shared link was created" = "Se ha creado el nuevo enlace compartido";
+
+/* No comment provided by engineer. */
+"The parameters are incorrect." = "Los parámetros son incorrectos.";
+
+/* No comment provided by engineer. */
+"The password is incorrect. It must contain 8 characters" = "La contraseña es incorrecta. Debe contener 8 caracteres";
+
+/* No comment provided by engineer. */
+"The portal address is invalid" = "La dirección de portal es inválida";
+
+/* No comment provided by engineer. */
+"The portal is not available" = "El portal no está disponible";
+
+/* No comment provided by engineer. */
+"The portal name must be between 6 and 50 characters long" = "El nombre de portal debe tener entre 6 y 50 caracteres de longitud";
+
+/* No comment provided by engineer. */
+"The previous link will become unavailable. A new shared link will be created." = "El enlace anterior dejará de estar disponible. Se creará un nuevo enlace compartido.";
+
+/* No comment provided by engineer. */
+"The quota of users is almost exhausted. Сontact the portal administrator" = "La cuota de usuarios está casi agotada. Сontacte con el administrador del portal";
+
+/* No comment provided by engineer. */
+"The request timed out." = "La solicitud ha agotado el tiempo de espera.";
+
+/* No comment provided by engineer. */
+"The server is not available." = "El servidor no está disponible.";
+
+/* No comment provided by engineer. */
+"The setting will be available upon authorization on the %@." = "La configuración estará disponible después de la autorización en %@.";
+
+/* No comment provided by engineer. */
+"The trash is empty" = "La papelera está vacía";
+
+/* No comment provided by engineer. */
+"The user limit has been reached. Сontact the portal administrator" = "Se ha alcanzado el límite de usuarios. Сontacte con el administrador del portal";
+
+/* No comment provided by engineer. */
+"Theme" = "Tema";
+
+/* No comment provided by engineer. */
+"Third party resource" = "Recurso de terceros";
+
+/* No comment provided by engineer. */
+"Third party storage" = "Almacenamiento de terceros";
+
+/* Introduction Step Three - Title */
+"Third-party storage" = "Almacenamiento de terceros";
+
+/* No comment provided by engineer. */
+"This document is being edited. Do you want open %@ to view only?" = "Este documento está siendo editado. ¿Desea abrir %@ en el modo de solo visualización?";
+
+/* No comment provided by engineer. */
+"This folder is empty" = "La carpeta está vacía";
+
+/* No comment provided by engineer. */
+"This operation will free up space on your device by deleting temporary files. Your offline files and personal data won't be removed." = "Esta operación liberará espacio en su dispositivo eliminando los archivos temporales. Sus archivos que no están en línea y sus datos personales no serán eliminados.";
+
+/* No comment provided by engineer. */
+"This option is used to block access previously granted to a user or group." = "Esta opción se utiliza para bloquear el acceso previamente concedido a un usuario o grupo.";
+
+/* No comment provided by engineer. */
+"This presentation is being edited. Do you want open %@ to view only?" = "Esta presentación está siendo editada. ¿Desea abrir %@ en el modo de solo visualización?";
+
+/* No comment provided by engineer. */
+"This room is available to anyone with the link.\n External users will have Form Filler permission\n for all the files." = "Esta sala está disponible para cualquiera que tenga el enlace.\nLos usuarios externos tendrán permiso para rellenar formularios\npara todos los archivos.";
+
+/* No comment provided by engineer. */
+"This room is available to anyone with the link.\n External users will have View Only permission\n for all the files." = "Esta sala está disponible para cualquiera que tenga el enlace.\nLos usuarios externos tendrán permiso de solo visualización\npara todos los archivos.";
+
+/* No comment provided by engineer. */
+"This spreadsheet is being edited. Do you want open %@ to view only?" = "Esta hoja de cálculo está siendo editada. ¿Desea abrir %@ en el modo de solo visualización?";
+
+/* No comment provided by engineer. */
+"Time limit" = "Límite de tiempo";
+
+/* No comment provided by engineer. */
+"Title" = "Título";
+
+/* No comment provided by engineer. */
+"To open a document, you must go to portal %@ under your account." = "Para abrir un documento, usted debe ir al portal %@ bajo su cuenta.";
+
+/* No comment provided by engineer. */
+"To open a folder, you must exit the current document." = "Para abrir una carpeta, debe salir del documento actual.";
+
+/* No comment provided by engineer. */
+"To open a folder, you must go to portal %@ under your account." = "Para abrir una carpeta, debe ir al portal de %@ con su cuenta.";
+
+/* No comment provided by engineer. */
+"To open a new document, you must exit the current document." = "Para abrir un nuevo documento, usted debe cerrar el documento actual.";
+
+/* No comment provided by engineer. */
+"To receive push notifications from the %@ application, you need to allow receiving notifications for this application in the iOS settings" = "Para recibir notificaciones push de la aplicación de %@, debe permitir la recepción de notificaciones para esta aplicación en la configuración de iOS";
+
+/* Category title */
+"Trash" = "Papelera";
+
+/* No comment provided by engineer. */
+"Try again" = "Inténtelo de nuevo";
+
+/* No comment provided by engineer. */
+"Try Again" = "Inténtelo de nuevo";
+
+/* No comment provided by engineer. */
+"Try to connect via another protocol?" = "¿Intentar conectar a través de otro protocolo?";
+
+/* No comment provided by engineer. */
+"Turn ON in Settings" = "Activar en los ajustes";
+
+/* No comment provided by engineer. */
+"Turn Passcode Off" = "Desactivar código de acceso";
+
+/* No comment provided by engineer. */
+"Turn Passcode On" = "Activar código de acceso";
+
+/* No comment provided by engineer. */
+"Type" = "Tipo";
+
+/* No comment provided by engineer. */
+"Unable delete items" = "No se puede eliminar elementos";
+
+/* No comment provided by engineer. */
+"Unable disconnect third party" = "No se puede desconectar al tercero";
+
+/* No comment provided by engineer. */
+"Unable to get information about the portal" = "Incapaz de obtener información sobre el portal";
+
+/* No comment provided by engineer. */
+"Unable to get information about the user." = "Incapaz de obtener información sobre el usuario.";
+
+/* No comment provided by engineer. */
+"Unarchiving failed." = "Error al desarchivar.";
+
+/* No comment provided by engineer. */
+"Unauthorized members will be able only to view the document." = "Los miembros no autorizados solo podrán ver el documento.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will be able only to view the document and add comments, as well as manage them." = "Los usuarios no autorizados sólo podrán ver el documento y añadir comentarios, así como administrarlos.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will be able only to view the document and fill in the forms inserted into the document." = "Los usuarios no autorizados sólo podrán ver el documento y rellenar los formularios insertados en el documento.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will be able only to view the document." = "Los usuarios no autorizados sólo podrán ver el documento.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will be able to view and change the document without actually editing it, but all the changes made by a reviewer will be recorded and shown to the file owner (or a person who has full access to the file) so that he/she will be able to accept or reject them." = "Los usuarios no autorizados sólo podrán ver y modificar el documento sin editarlo, pero todos los cambios realizados por un revisor se registrarán y se mostrarán al propietario del archivo (o a cualquier persona que tenga acceso completo al archivo) para que pueda aceptarlos o rechazarlos.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will be able to view and edit the document as well as to share this document." = "Los usuarios no autorizados sólo podrán ver y editar el documento, así como compartirlo.";
+
+/* No comment provided by engineer. */
+"Unauthorized users will not have access to the document." = "Los usuarios no autorizados no tendrán acceso al documento.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Desconocido";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Error desconocido";
+
+/* No comment provided by engineer. */
+"Unknown file provider" = "Proveedor de archivos desconocido";
+
+/* No comment provided by engineer. */
+"Unknown item type." = "Tipo de objeto desconocido.";
+
+/* No comment provided by engineer. */
+"Unlimited" = "Sin límites";
+
+/* No comment provided by engineer. */
+"Unlock with Face ID" = "Desbloquear con Face ID";
+
+/* No comment provided by engineer. */
+"Unlock with Touch ID" = "Desbloquear con Touch ID";
+
+/* Button title */
+"Unpin" = "Desanclar";
+
+/* No comment provided by engineer. */
+"Unpinned failed." = "Error al desanclar.";
+
+/* Caption of the processing */
+"Unpinning" = "Desanclando";
+
+/* Caption of the processing */
+"Unpning" = "Desanclando";
+
+/* No comment provided by engineer. */
+"Upload a ready PDF form" = "Subir un formulario PDF listo";
+
+/* No comment provided by engineer. */
+"Upload PDF form from device" = "Subir formulario PDF desde el dispositivo.";
+
+/* No comment provided by engineer. */
+"Upload PDF form from DocSpace" = "Subir formulario PDF desde DocSpace";
+
+/* No comment provided by engineer. */
+"Upload PDF forms into the room. Invite users to fill out a PDF form. Review completed forms and analyze data automatically collected in a spreadsheet." = "Suba formularios PDF a la sala. Invite a los usuarios a rellenar un formulario PDF. Revise los formularios rellenados y analice los datos recopilados automáticamente en una hoja de cálculo.";
+
+/* Caption of the process */
+"Uploading" = "Cargando";
+
+/* No comment provided by engineer. */
+"Use third-party services as data storage for this room. A new folder for storing this room’s data will be created in the connected storage" = "Utilice servicios de terceros como almacenamiento de datos para esta sala. Se creará una nueva carpeta para almacenar los datos de esta sala en el almacenamiento conectado";
+
+/* No comment provided by engineer. */
+"User" = "Usuario";
+
+/* No comment provided by engineer. */
+"User authentication failed" = "Error de autenticación de usuario";
+
+/* No comment provided by engineer. */
+"User authentication required" = "Se requiere la autenticación del usuario";
+
+/* No comment provided by engineer. */
+"User name" = "Nombre de usuario";
+
+/* No comment provided by engineer. */
+"User undefined" = "Usuario no definido";
+
+/* No comment provided by engineer. */
+"Users" = "Usuarios";
+
+/* No comment provided by engineer. */
+"Users in room" = "Usuarios en la sala";
+
+/* No comment provided by engineer. */
+"Valid through" = "Válido hasta";
+
+/* Caption of the process */
+"Validation" = "Validación";
+
+/* Share status */
+"Varies" = "Varios";
+
+/* No comment provided by engineer. */
+"Version" = "Versión";
+
+/* No comment provided by engineer. */
+"View-only" = "Solo visualización";
+
+/* Share status */
+"Viewer" = "Visor";
+
+/* No comment provided by engineer. */
+"Warning" = "Advertencia";
+
+/* No comment provided by engineer. */
+"We are sorry, this portal name is already taken" = "Lo sentimos, este nombre de portal ya está ocupando";
+
+/* No comment provided by engineer. */
+"We have sent you an SMS with a code to the number %@" = "Le enviamos un SMS con un código al número %@";
+
+/* No comment provided by engineer. */
+"WebDAV" = "WebDAV";
+
+/* No comment provided by engineer. */
+"WebDAV directory" = "Directorio de WebDAV";
+
+/* Introduction Step One - Description */
+"Welcome to %@ mobile editing suite!\nSwipe to learn more about the app." = "¡Bienvenido/a a la suite de edición para móviles de %@!\nDeslice para obtener más información sobre la aplicación.";
+
+/* No comment provided by engineer. */
+"Welcome to the Form filling room " = "Bienvenido/a a la sala de llenado de formularios.";
+
+/* No comment provided by engineer. */
+"What's New" = "Qué hay de nuevo";
+
+/* Introduction Step Four - Description */
+"Work with documents offline.\nCreated files can later be uploaded to online portal and\nthen accessed from any other device." = "Trabaje con documentos offline.\nLos archivos creados se puede cargar al portal en línea más tarde y luego acceder desde cualquier otro dispositivo.";
+
+/* Introduction Step Two - Title */
+"Work with office files" = "Trabaje con archivos de oficina";
+
+/* No comment provided by engineer. */
+"Wrong server, login or password." = "Servidor, nombre de usuario o contraseña incorrectos.";
+
+/* No comment provided by engineer. */
+"Yandex directory" = "Directorio de Yandex";
+
+/* No comment provided by engineer. */
+"Yandex Disk" = "Yandex Disk";
+
+/* Data units */
+"Yb" = "Yb";
+
+/* No comment provided by engineer. */
+"You are about to delete this room. You won't be able to restore them." = "Está a punto de eliminar esta sala. No podrá restaurarla.";
+
+/* No comment provided by engineer. */
+"You are the owner of this room. Before you leave the room, you must transfer the owner’s role to another user." = "Usted es el propietario de esta sala. Antes de salir de la sala, debe transferir el rol de propietario a otro usuario.";
+
+/* No comment provided by engineer. */
+"You can archive rooms you don’t use and restore them in your DocSpace at any moment or delete them permanently. These rooms will appear here." = "Puede archivar las salas que no utilice y restaurarlas en su DocSpace en cualquier momento o eliminarlas definitivamente. Estas salas aparecerán aquí.";
+
+/* No comment provided by engineer. */
+"You can connect the following accounts to the %@." = "Usted puede conectar las cuentas siguientes al %@.";
+
+/* No comment provided by engineer. */
+"You can connect the following accounts to the %@. They will be displayed in 'My Documents' folder and you will be able to edit and save them right on the portal all in one place." = "Usted puede conectar las cuentas siguientes al %@. Ellas se visualizarán en la carpeta 'Mis Documentos' y usted podrá editar y guardarlos directamente en el portal en un solo lugar.";
+
+/* No comment provided by engineer. */
+"You can connect the following accounts to the DocSpace rooms" = "Puede conectar las siguientes cuentas a las salas de DocSpace";
+
+/* No comment provided by engineer. */
+"You can’t pin more than 10 rooms to the top. Unpin some that are currently pinned." = "No puede anclar más de 10 salas en la parte superior. Debe desanclar algunas que estén ancladas en ese momento.";
+
+/* No comment provided by engineer. */
+"You have left the room" = "Ha salido de la sala";
+
+/* No comment provided by engineer. */
+"You have left the room and appointed a new owner" = "Ha salido de la sala y ha nombrado a un nuevo propietario";
+
+/* No comment provided by engineer. */
+"You have read-only access to this folder. You cannot create files or folders here." = "Solo tiene acceso de lectura a esta carpeta. No puede crear archivos o carpetas aquí.";
+
+/* No comment provided by engineer. */
+"Your current tariff plan Business expired. Please renew your subscription in the account settings to be able to use your DocSpace. If you have any questions, please contact support." = "Su plan de tarifas actual Business ha expirado. Por favor, renueve su suscripción en la configuración de la cuenta para poder seguir utilizando su DocSpace. Si tiene alguna pregunta, póngase en contacto con el equipo de soporte.";
+
+/* No comment provided by engineer. */
+"Your device could not send e-mail. Please check e-mail configuration and try again." = "Su dispositivo no ha podido enviar el correo electrónico. Compruebe la configuración del correo electrónico e inténtelo de nuevo.";
+
+/* No comment provided by engineer. */
+"Your session has expired" = "Su sesión ha caducado";
+
+/* Data units */
+"Zb" = "Zb";
+
+/* Data units */
+"Zero bytes" = "Cero bytes";
+
+/* No comment provided by engineer. */
+"Сonversion error" = "Error de conversión";
+
+/* No comment provided by engineer. */
+"Сould not download file." = "No se pudo descargar el archivo.";
+
+/* No comment provided by engineer. */
+"Сould not upload file." = "No se pudo subir el archivo.";
+
